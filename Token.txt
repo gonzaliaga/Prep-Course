@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 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
+=======
+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
+>>>>>>> f2f081c22d69c81c74eac31f8373adc44cfbabbe
 git push  https://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@github.com/gonzaliaga/Prep-Course
